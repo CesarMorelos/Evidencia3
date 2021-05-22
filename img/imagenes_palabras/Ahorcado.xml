@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ahorcado.png">
+	<!-- Created with Adobe Animate version 16.1.0.86 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Victima instancia 10000" x="0" y="0" width="0" height="0" pivotX="175.9" pivotY="184.75" frameX="-110" frameY="64" frameWidth="181" frameHeight="619"/>
+	<SubTexture name="Victima instancia 10001" x="0" y="0" width="67" height="135" frameX="-104" frameY="-477" frameWidth="181" frameHeight="619"/>
+	<SubTexture name="Victima instancia 10002" x="67" y="0" width="163" height="135" frameX="-8" frameY="-477" frameWidth="181" frameHeight="619"/>
+	<SubTexture name="Victima instancia 10003" x="230" y="0" width="163" height="265" frameX="-8" frameY="-347" frameWidth="181" frameHeight="619"/>
+	<SubTexture name="Victima instancia 10004" x="393" y="0" width="168" height="265" frameX="-3" frameY="-347" frameWidth="181" frameHeight="619"/>
+	<SubTexture name="Victima instancia 10005" x="561" y="0" width="178" height="265" frameX="-3" frameY="-347" frameWidth="181" frameHeight="619"/>
+	<SubTexture name="Victima instancia 10006" x="739" y="0" width="180" height="392" frameX="-1" frameY="-220" frameWidth="181" frameHeight="619"/>
+	<SubTexture name="Victima instancia 10007" x="0" y="392" width="179" height="396" frameX="0" frameY="-220" frameWidth="181" frameHeight="619"/>
+	<SubTexture name="Victima instancia 10008" x="179" y="392" width="178" height="619" frameX="-1" frameY="0" frameWidth="181" frameHeight="619"/>
+</TextureAtlas>

@@ -1,0 +1,4 @@
+
+this.nivel1=['agua','ave','grasa','lavar','luna','luz','mosca','pasta','pelo','volar'];
+this.nivel2=['apoyar','cultivo','enseñar','equipo','esferas','especias','familia','frutas','reparar'];
+this.nivel3=['accesorios','crecimiento','enlatado','entretenimiento','felicidad','izquierda','libertad','multiusos','pendientes','reptiles' 
